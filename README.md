@@ -1,2 +1,2 @@
 # Android-Project-12
-Designed and implemented multiple Android applications using Java in Android Studio, focusing on core functionalities, multiple activities, and user interface components.
+Contains the report file as well as the code
